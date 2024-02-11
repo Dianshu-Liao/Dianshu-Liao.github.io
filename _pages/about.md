@@ -21,9 +21,6 @@ Dianshu Liao is a PhD student in Computer Science at the Australian National Uni
 
 He is open to collaboration and welcomes inquiries from individuals with overlapping research interests. Please feel free to reach out if you believe our research interests align.
 
-# 🔥 News
-
-
 # 📝 Publications 
 
 - Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness<br>
