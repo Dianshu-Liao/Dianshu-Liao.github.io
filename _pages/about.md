@@ -24,3 +24,16 @@ Dianshu Liao is a PhD student in Computer Science at the Australian National Uni
 
 # 📝 Publications 
 
+
+
+-Enhancing Exploratory Testing by Large Language Model and Knowledge Graph<br>
+Yanqi Su, Dianshu Liao, Zhenchang Xing, Qing Huang, Mulong Xie, Qinghua Lu, Xiwei Xu. 
+   [ICSE2024](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/157/Enhancing-Exploratory-Testing-by-Large-Language-Model-and-Knowledge-Graph)
+
+- Semantic-Enriched Code Knowledge Graph to Reveal Unknowns in Smart Contract Code Reuse<br>
+_Qing Huang (co first author), **Dianshu Liao** (co first author)}, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, Xin Xia._    [TOSEM2023](https://dl.acm.org/doi/10.1145/3597206)
+
+
+
+
+
