@@ -19,6 +19,8 @@ redirect_from:
 
 Dianshu Liao is a PhD student in Computer Science at the Australian National University (ANU). His research areas mainly involve mobile software engineering (i.e., Android performance analysis), and intelligent software engineering (SE4AI, AI4SE). In particular, his research focuses on applying large language models, knowledge graphs, and program analysis techniques to enhance the performance of software systems.
 
+He is open to collaboration and welcomes inquiries from individuals with overlapping research interests. Please feel free to reach out if you believe our research interests align.
+
 # 🔥 News
 
 
