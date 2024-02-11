@@ -24,9 +24,4 @@ Dianshu Liao is a PhD student in Computer Science at the Australian National Uni
 
 
 # 📝 Publications 
-2020  
-[C1] Pei Liu, Li Li, Yanjie Zhao, Xiaoyu Sun, and John Grundy, Androzooopen: Collecting large-scale open source android apps for the research community, Proceedings of the 17th International Conference on Mining Software Repositories (MSR 2020), 2020 [pdf] [bib]
 
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
