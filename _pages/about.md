@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dianshu Liao is a PhD student in Computer Science at the Australian National University (ANU). His research areas mainly involve mobile software engineering (i.e., Android performance analysis), and intelligent software engineering (SE4AI, AI4SE). In particular, his research focuses on applying large language models, knowledge graphs, and program analysis techniques to enhance the performance of software systems.
+I am a Ph.D. candidate in Computer Science at the Australian National University (ANU), under the supervision of [Xiaoyu Sun](https://sunxiaobiu.github.io/) and co-supervision of [Zhenchang Xing](https://comp.anu.edu.au/people/zhenchang-xing/). My research focuses on Intelligent Software Engineering (SE4AI, AI4SE), Knowledge Graphs, and Mobile Software Engineering (i.e., Android performance analysis).
 
-He is open to collaboration and welcomes inquiries from individuals with overlapping research interests. Please feel free to reach out if you believe our research interests align.
+I am open to collaboration and welcomes inquiries from individuals with overlapping research interests. Please feel free to reach out if you believe our research interests align.
+
+
 
 # 📝 Publications (* means co-first author)
 
