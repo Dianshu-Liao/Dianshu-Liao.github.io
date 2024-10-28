@@ -28,7 +28,7 @@ I am open to collaboration and welcomes inquiries from individuals with overlapp
 # 📝 Publications (* means co-first author)
 
 - A³-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware<br>
-_**Dianshu Liao**, Shidong Pan, Qing Huang, Xiaoxue Ren, Zhenchang Xing, Huan Jin, Qinying Li._ [TSE2024](https://ieeexplore.ieee.org/document/10734067)
+_**Dianshu Liao**, Shidong Pan, Xiaoyu Sun, Xiaoxue Ren, Qing Huang, Zhenchang Xing, Huan Jin, Qinying Li._ [TSE2024](https://ieeexplore.ieee.org/document/10734067)
 
 - SE Factual Knowledge in Frozen Giant Code Model: A Study on FQN and its Retrieval<br>
 _Qing Huang*, **Dianshu Liao***, Zhenchang Xing, Zhiqiang Yuan, Qinghua Lu, Xiwei Xu, Jiaxing Lu._ [TKDE2024](https://arxiv.org/abs/2212.08221)
