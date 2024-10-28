@@ -22,8 +22,8 @@ I am a Ph.D. candidate in Computer Science at the Australian National University
 I am open to collaboration and welcomes inquiries from individuals with overlapping research interests. Please feel free to reach out if you believe our research interests align.
 
 # 🔥 News
-- 🎉🎉🎉 Our paper, "A³-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware" was accepted to TSE!!!
-
+- [2024-10-14] 🎉🎉🎉 Our paper, "A³-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware" was accepted to TSE!!!
+- [2024-09-04] I am serving on the Programm Committee of [ICSE'25 Artifact Evaluation](https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation). Welcome submissions!
 
 # 📝 Publications (* means co-first author)
 
