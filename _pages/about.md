@@ -34,7 +34,7 @@ _**Dianshu Liao**, Shidong Pan, Qing Huang, Xiaoxue Ren, Zhenchang Xing, Huan Ji
 _Qing Huang*, **Dianshu Liao***, Zhenchang Xing, Zhiqiang Yuan, Qinghua Lu, Xiwei Xu, Jiaxing Lu._ [TKDE2024](https://arxiv.org/abs/2212.08221)
 
 - Enhancing Exploratory Testing by Large Language Model and Knowledge Graph<br>
-_Yanqi Su, **Dianshu Liao**, Zhenchang Xing, Qing Huang, Mulong Xie, Qinghua Lu, Xiwei Xu._ [ICSE2024](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/157/Enhancing-Exploratory-Testing-by-Large-Language-Model-and-Knowledge-Graph)
+_Yanqi Su, **Dianshu Liao**, Zhenchang Xing, Qing Huang, Mulong Xie, Qinghua Lu, Xiwei Xu._ [ICSE2024](https://dl.acm.org/doi/abs/10.1145/3597503.3639157)
 
 - Semantic-Enriched Code Knowledge Graph to Reveal Unknowns in Smart Contract Code Reuse<br>
   _Qing Huang*, **Dianshu Liao***, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, Xin Xia._ [TOSEM2023](https://dl.acm.org/doi/10.1145/3597206)
