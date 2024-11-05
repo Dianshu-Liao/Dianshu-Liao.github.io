@@ -26,6 +26,7 @@ I am open to collaboration and welcomes inquiries from individuals with overlapp
 - [2024-09-04] I am serving on the Programm Committee of [ICSE'25 Artifact Evaluation](https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation). Welcome submissions!
 
 # 📝 Publications (* means co-first author)
+## Published Papers
 
 - A³-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware<br>
 _**Dianshu Liao**, Shidong Pan, Xiaoyu Sun, Xiaoxue Ren, Qing Huang, Zhenchang Xing, Huan Jin, Qinying Li._ [TSE2024](https://ieeexplore.ieee.org/document/10734067)
@@ -39,7 +40,12 @@ _Yanqi Su, **Dianshu Liao**, Zhenchang Xing, Qing Huang, Mulong Xie, Qinghua Lu,
 - Semantic-Enriched Code Knowledge Graph to Reveal Unknowns in Smart Contract Code Reuse<br>
   _Qing Huang*, **Dianshu Liao***, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, Xin Xia._ [TOSEM2023](https://dl.acm.org/doi/10.1145/3597206)
 
+## Pre-prints
+- A Solution toward Transparent and Practical AI Regulation: Privacy Nutrition Labels for Open-source Generative AI-based Applications<br>
+_Meixue Si, Shidong Pan, **Dianshu Liao**, Xiaoyu Sun, Zhen Tao, Wenchang Shi, Zhenchang Xing._ [Pre-print](https://arxiv.org/abs/2407.15407)
 
+- Automatically Analyzing Performance Issues in Android Apps: How Far Are We?<br>
+_**Dianshu Liao**, Shidong Pan, Siyuan Yang, Yanjie Zhao, Zhenchang Xing, Xiaoyu Sun._ [Pre-print](https://arxiv.org/abs/2407.05090)
 
 
 
