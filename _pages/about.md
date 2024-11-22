@@ -32,7 +32,7 @@ I am open to collaboration and welcomes inquiries from individuals with overlapp
 _**Dianshu Liao**, Shidong Pan, Xiaoyu Sun, Xiaoxue Ren, Qing Huang, Zhenchang Xing, Huan Jin, Qinying Li._ [TSE2024](https://ieeexplore.ieee.org/document/10734067)
 
 - SE Factual Knowledge in Frozen Giant Code Model: A Study on FQN and its Retrieval<br>
-_Qing Huang*, **Dianshu Liao***, Zhenchang Xing, Zhiqiang Yuan, Qinghua Lu, Xiwei Xu, Jiaxing Lu._ [TKDE2024](https://arxiv.org/abs/2212.08221)
+_Qing Huang*, **Dianshu Liao***, Zhenchang Xing, Zhiqiang Yuan, Qinghua Lu, Xiwei Xu, Jiaxing Lu._ [TKDE2024](https://ieeexplore.ieee.org/document/10750898)
 
 - Enhancing Exploratory Testing by Large Language Model and Knowledge Graph<br>
 _Yanqi Su, **Dianshu Liao**, Zhenchang Xing, Qing Huang, Mulong Xie, Qinghua Lu, Xiwei Xu._ [ICSE2024](https://dl.acm.org/doi/abs/10.1145/3597503.3639157)
