@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Computer Science at the Australian National University (ANU), under the supervision of [Xiaoyu Sun](https://sunxiaobiu.github.io/) and co-supervision of [Zhenchang Xing](https://comp.anu.edu.au/people/zhenchang-xing/). My research focuses on Intelligent Software Engineering (SE4AI, AI4SE), Knowledge Graphs, and Mobile Software Engineering (i.e., Android performance analysis).
+I am a Ph.D. candidate in Computer Science at the Australian National University (ANU), under the supervision of [Xiaoyu Sun](https://sunxiaobiu.github.io/) and co-supervision of [Zhenchang Xing](https://comp.anu.edu.au/people/zhenchang-xing/). I also obtained Bachelor's degree at Jiangxi Normal University. My research focuses on Intelligent Software Engineering (SE4AI, AI4SE), Knowledge Graphs, and Mobile Software Engineering (i.e., Android performance analysis).
 
 I am open to collaboration and welcomes inquiries from individuals with overlapping research interests. Please feel free to reach out if you believe our research interests align.
 
@@ -47,5 +47,6 @@ _Meixue Si, Shidong Pan, **Dianshu Liao**, Xiaoyu Sun, Zhen Tao, Wenchang Shi, Z
 - Automatically Analyzing Performance Issues in Android Apps: How Far Are We?<br>
 _**Dianshu Liao**, Shidong Pan, Siyuan Yang, Yanjie Zhao, Zhenchang Xing, Xiaoyu Sun._ [Pre-print](https://arxiv.org/abs/2407.05090)
 
-
-
+# 📖 Educations
+- 2024 - Present, Ph.D. student, Australian National University.
+- 2019 - 2023, Bachelor, Jangxi Normal University.
