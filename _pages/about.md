@@ -50,3 +50,7 @@ _**Dianshu Liao**, Shidong Pan, Siyuan Yang, Yanjie Zhao, Zhenchang Xing, Xiaoyu
 # 📖 Educations
 - 2024 - Present, Ph.D. student, Australian National University.
 - 2019 - 2023, Bachelor, Jangxi Normal University.
+
+# 📚 Teaching
+## Tutor
+- Australian National University, 2025S1, COMP4130, Managing Software Quality and Process, by Xiaoyu Sun
