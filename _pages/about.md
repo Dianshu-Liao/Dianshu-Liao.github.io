@@ -27,7 +27,7 @@ I am open to collaboration and welcomes inquiries from individuals with overlapp
 - [2024-09-04] I am serving on the Programm Committee of [ICSE'25 Artifact Evaluation](https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation). Welcome submissions!
 - [2024-07-19] 🎉🎉🎉 Our paper, "SE Factual Knowledge in Frozen Giant CodeModel: A Study on FQN and its Retrieval" was accepted to TKDE!!!
 - [2023-12-15] 🎉🎉🎉 Our paper, "Enhancing Exploratory Testing by Large Language Model and
-  Knowledge Graph" was accepted to TKDE!!!
+  Knowledge Graph" was accepted to ICSE!!!
 - [2023-04-27] 🎉🎉🎉 Our paper, "Semantic-enriched Code Knowledge Graph to Reveal Unknowns in Smart Contract Code Reuse" was accepted to TOSEM!!!
 
   
