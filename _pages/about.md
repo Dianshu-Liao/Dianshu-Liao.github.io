@@ -22,13 +22,13 @@ I am a Ph.D. candidate in Computer Science at the Australian National University
 I am open to collaboration and welcomes inquiries from individuals with overlapping research interests. Please feel free to reach out if you believe our research interests align.
 
 # 🔥 News
-- [2025-09-27] 🎉🎉🎉 Our paper, "Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models" was accepted to ASE!!
-- [2024-10-14] 🎉🎉🎉 Our paper, "A³-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware" was accepted to TSE!!!
+- [2025-09-27] 🎉🎉🎉 Our paper, "Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models" was accepted to ASE 2025!!
+- [2024-10-14] 🎉🎉🎉 Our paper, "A³-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware" was accepted to TSE 2024!!!
 - [2024-09-04] I am serving on the Programm Committee of [ICSE'25 Artifact Evaluation](https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation). Welcome submissions!
-- [2024-07-19] 🎉🎉🎉 Our paper, "SE Factual Knowledge in Frozen Giant CodeModel: A Study on FQN and its Retrieval" was accepted to TKDE!!!
+- [2024-07-19] 🎉🎉🎉 Our paper, "SE Factual Knowledge in Frozen Giant CodeModel: A Study on FQN and its Retrieval" was accepted to TKDE 2024!!!
 - [2023-12-15] 🎉🎉🎉 Our paper, "Enhancing Exploratory Testing by Large Language Model and
-  Knowledge Graph" was accepted to ICSE!!!
-- [2023-04-27] 🎉🎉🎉 Our paper, "Semantic-enriched Code Knowledge Graph to Reveal Unknowns in Smart Contract Code Reuse" was accepted to TOSEM!!!
+  Knowledge Graph" was accepted to ICSE 2024!!!
+- [2023-04-27] 🎉🎉🎉 Our paper, "Semantic-enriched Code Knowledge Graph to Reveal Unknowns in Smart Contract Code Reuse" was accepted to TOSEM 2023!!!
 
   
 # 📝 Publications (* denotes co-first author)
