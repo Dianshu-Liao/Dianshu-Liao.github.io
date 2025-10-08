@@ -22,6 +22,7 @@ I am a Ph.D. candidate in Computer Science at the Australian National University
 I am open to collaboration and welcomes inquiries from individuals with overlapping research interests. Please feel free to reach out if you believe our research interests align.
 
 # 🔥 News
+- [2025-10-08] 🎉🎉🎉 Our paper, "A Comparative Study of Android Performance Issues in Real-world Applications and Literature" was accepted to TOSEM 2025!!
 - [2025-09-27] 🎉🎉🎉 Our paper, "Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models" was accepted to ASE 2025!!
 - [2024-10-14] 🎉🎉🎉 Our paper, "A³-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware" was accepted to TSE 2024!!!
 - [2024-09-04] I am serving on the Programm Committee of [ICSE'25 Artifact Evaluation](https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation). Welcome submissions!
@@ -33,6 +34,9 @@ I am open to collaboration and welcomes inquiries from individuals with overlapp
   
 # 📝 Publications (* denotes co-first author)
 ## Published Papers
+- A Comparative Study of Android Performance Issues in Real-world Applications and Literature<br>
+_**Dianshu Liao**, Shidong Pan, Siyuan Yang, Yanjie Zhao, Zhenchang Xing, Xiaoyu Sun._ [TOSEM2025](https://arxiv.org/abs/2407.05090) (**_CCF-A_**, **_Core-A_***)
+
 - Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models<br>
 _**Dianshu Liao**, Xin Yin, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun._ [ASE2025](https://arxiv.org/pdf/2509.23812) (**_CCF-A_**, **_Core-A_***)
 
@@ -52,8 +56,6 @@ _Yanqi Su, **Dianshu Liao**, Zhenchang Xing, Qing Huang, Mulong Xie, Qinghua Lu,
 - A Solution toward Transparent and Practical AI Regulation: Privacy Nutrition Labels for Open-source Generative AI-based Applications<br>
 _Meixue Si, Shidong Pan, **Dianshu Liao**, Xiaoyu Sun, Zhen Tao, Wenchang Shi, Zhenchang Xing._ [Pre-print](https://arxiv.org/abs/2407.15407)
 
-- Automatically Analyzing Performance Issues in Android Apps: How Far Are We?<br>
-_**Dianshu Liao**, Shidong Pan, Siyuan Yang, Yanjie Zhao, Zhenchang Xing, Xiaoyu Sun._ [Pre-print](https://arxiv.org/abs/2407.05090)
 
 # 📖 Educations
 - 2024 - Present, Ph.D. student, Australian National University.
