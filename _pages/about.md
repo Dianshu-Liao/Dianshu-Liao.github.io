@@ -38,7 +38,7 @@ I am open to collaboration and welcomes inquiries from individuals with overlapp
 _**Dianshu Liao**, Shidong Pan, Siyuan Yang, Yanjie Zhao, Zhenchang Xing, Xiaoyu Sun._ [TOSEM2025](https://arxiv.org/abs/2407.05090) (**_CCF-A_**, **_Core-A_***)
 
 - Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models<br>
-_**Dianshu Liao**, Xin Yin, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun._ [ASE2025](https://arxiv.org/pdf/2509.23812) (**_CCF-A_**, **_Core-A_***)
+_**Dianshu Liao**, Xin Yin, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun._ [ASE2025](https://arxiv.org/abs/2509.23812) (**_CCF-A_**, **_Core-A_***)
 
 - A³-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware<br>
 _**Dianshu Liao**, Shidong Pan, Xiaoyu Sun, Xiaoxue Ren, Qing Huang, Zhenchang Xing, Huan Jin, Qinying Li._ [TSE2024](https://ieeexplore.ieee.org/document/10734067) (**_CCF-A_**, **_Core-A_***)
