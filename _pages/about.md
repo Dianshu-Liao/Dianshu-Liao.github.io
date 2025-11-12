@@ -59,6 +59,12 @@ _Meixue Si, Shidong Pan, **Dianshu Liao**, Xiaoyu Sun, Zhen Tao, Wenchang Shi, Z
 
 
 
+
+# 📖 Educations
+- 2024 - Present, Ph.D. student, Australian National University.
+- 2019 - 2023, Bachelor, Jangxi Normal University.
+
+
 # 💼 Academic Services
 - Program Committee Member, ICSE 2025 Artifact Evaluation Track
 - Reviewer, Automated Software Engineering Journal
@@ -67,7 +73,3 @@ _Meixue Si, Shidong Pan, **Dianshu Liao**, Xiaoyu Sun, Zhen Tao, Wenchang Shi, Z
 ## Tutor
 - Australian National University, 2025S1, COMP4130, Managing Software Quality and Process, by Xiaoyu Sun
 
-
-# 📖 Educations
-- 2024 - Present, Ph.D. student, Australian National University.
-- 2019 - 2023, Bachelor, Jangxi Normal University.
