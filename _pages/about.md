@@ -22,6 +22,7 @@ I am a Ph.D. candidate in Computer Science at the Australian National University
 I am open to collaboration and welcomes inquiries from individuals with overlapping research interests. Please feel free to reach out if you believe our research interests align.
 
 # 🔥 News
+- [2025-12-01] 🎉🎉🎉 Our paper, "JUnitGenie: A Framework for Path-Sensitive Unit Test Generation with Large Language Models" was accepted to ICSE 2026 Demos!!
 - [2025-10-08] 🎉🎉🎉 Our paper, "A Comparative Study of Android Performance Issues in Real-world Applications and Literature" was accepted to TOSEM 2025!!
 - [2025-09-27] 🎉🎉🎉 Our paper, "Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models" was accepted to ASE 2025!!
 - [2024-10-14] 🎉🎉🎉 Our paper, "A³-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware" was accepted to TSE 2024!!!
@@ -34,6 +35,11 @@ I am open to collaboration and welcomes inquiries from individuals with overlapp
   
 # 📝 Publications (* denotes co-first author)
 ## Published Papers
+
+
+- JUnitGenie: A Framework for Path-Sensitive Unit Test Generation with Large Language Models<br>
+_**Dianshu Liao**, Xin Yin, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun._ [ICSE2026Demos]
+
 - A Comparative Study of Android Performance Issues in Real-world Applications and Literature<br>
 _**Dianshu Liao**, Shidong Pan, Siyuan Yang, Yanjie Zhao, Zhenchang Xing, Xiaoyu Sun._ [TOSEM2025](https://arxiv.org/abs/2407.05090) (**_CCF-A_**, **_Core-A_***)
 
