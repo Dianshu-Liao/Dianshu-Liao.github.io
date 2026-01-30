@@ -38,7 +38,7 @@ I am open to collaboration and welcomes inquiries from individuals with overlapp
 
 
 - JUnitGenie: A Framework for Path-Sensitive Unit Test Generation with Large Language Models<br>
-_**Dianshu Liao**, Xin Yin, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun._ [ICSE-2026-Demos] (**_CCF-A_**, **_Core-A_***)
+_**Dianshu Liao**, Xin Yin, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun._ [ICSE-2026-Demos](https://conf.researchr.org/details/icse-2026/icse-2026-demonstrations/3/JUnitGenie-A-Framework-for-Path-Sensitive-Unit-Test-Generation-with-Large-Language-M) (**_CCF-A_**, **_Core-A_***)
 
 - A Comparative Study of Android Performance Issues in Real-world Applications and Literature<br>
 _**Dianshu Liao**, Shidong Pan, Siyuan Yang, Yanjie Zhao, Zhenchang Xing, Xiaoyu Sun._ [TOSEM-2025](https://arxiv.org/abs/2407.05090) (**_CCF-A_**, **_Core-A_***)
