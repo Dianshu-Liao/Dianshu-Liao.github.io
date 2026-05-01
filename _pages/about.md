@@ -22,20 +22,21 @@ I am a Ph.D. candidate in Computer Science at the Australian National University
 I am open to collaboration and welcomes inquiries from individuals with overlapping research interests. Please feel free to reach out if you believe our research interests align.
 
 # 🔥 News
-- [2025-12-01] 🎉🎉🎉 Our paper, "JUnitGenie: A Framework for Path-Sensitive Unit Test Generation with Large Language Models" was accepted to ICSE 2026 Demos!!
-- [2025-10-08] 🎉🎉🎉 Our paper, "A Comparative Study of Android Performance Issues in Real-world Applications and Literature" was accepted to TOSEM 2025!!
-- [2025-09-27] 🎉🎉🎉 Our paper, "Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models" was accepted to ASE 2025!!
-- [2024-10-14] 🎉🎉🎉 Our paper, "A³-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware" was accepted to TSE 2024!!!
-- [2024-09-04] I am serving on the Programm Committee of [ICSE'25 Artifact Evaluation](https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation). Welcome submissions!
-- [2024-07-19] 🎉🎉🎉 Our paper, "SE Factual Knowledge in Frozen Giant CodeModel: A Study on FQN and its Retrieval" was accepted to TKDE 2024!!!
-- [2023-12-15] 🎉🎉🎉 Our paper, "Enhancing Exploratory Testing by Large Language Model and
-  Knowledge Graph" was accepted to ICSE 2024!!!
-- [2023-04-27] 🎉🎉🎉 Our paper, "Semantic-enriched Code Knowledge Graph to Reveal Unknowns in Smart Contract Code Reuse" was accepted to TOSEM 2023!!!
+- [2026-05-01] 🎉🎉 One paper was accepted to ICML 2026!
+- [2025-12-01] 🎉🎉 One paper was accepted to ICSE 2026 Demos!
+- [2025-10-08] 🎉🎉 One paper was accepted to TOSEM 2025!
+- [2025-09-27] 🎉🎉 One paper was accepted to ASE 2025!
+- [2024-10-14] 🎉🎉 One paper was accepted to TSE 2024!!
+- [2024-07-19] 🎉🎉 One paper was accepted to TKDE 2024!!
+- [2023-12-15] 🎉🎉 One paper was accepted to ICSE 2024!!
+- [2023-04-27] 🎉🎉 One paper was accepted to TOSEM 2023!!
 
   
 # 📝 Publications (* denotes co-first author)
 ## Published Papers
 
+- VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection<br>
+_Xiaobin Hu, Enpu zuo, Lanping Hu, Kaiwen Yang, **Dianshu Liao**, Tianyi Zhang, Bo Yin, Yinsi Zhou, Shidong Pan, Xiaoyu Sun._ [ICML-2026]() (**_CCF-A_**, **_Core-A_***)
 
 - JUnitGenie: A Framework for Path-Sensitive Unit Test Generation with Large Language Models<br>
 _**Dianshu Liao**, Xin Yin, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun._ [ICSE-2026-Demos](https://conf.researchr.org/details/icse-2026/icse-2026-demonstrations/3/JUnitGenie-A-Framework-for-Path-Sensitive-Unit-Test-Generation-with-Large-Language-M) (**_CCF-A_**, **_Core-A_***)
