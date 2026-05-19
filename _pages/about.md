@@ -36,7 +36,7 @@ I am open to collaboration and welcomes inquiries from individuals with overlapp
 ## Published Papers
 
 - VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection<br>
-_Xiaobin Hu, Enpu zuo, Lanping Hu, Kaiwen Yang, **Dianshu Liao**, Tianyi Zhang, Bo Yin, Yinsi Zhou, Shidong Pan, Xiaoyu Sun._ [ICML-2026]() (**_CCF-A_**, **_Core-A_***)
+_Xiaobin Hu, Enpu zuo, Lanping Hu, Kaiwen Yang, **Dianshu Liao**, Tianyi Zhang, Bo Yin, Yinsi Zhou, Shidong Pan, Xiaoyu Sun._ [ICML-2026](https://arxiv.org/pdf/2605.10229) (**_CCF-A_**, **_Core-A_***)
 
 - JUnitGenie: A Framework for Path-Sensitive Unit Test Generation with Large Language Models<br>
 _**Dianshu Liao**, Xin Yin, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun._ [ICSE-2026-Demos](https://conf.researchr.org/details/icse-2026/icse-2026-demonstrations/3/JUnitGenie-A-Framework-for-Path-Sensitive-Unit-Test-Generation-with-Large-Language-M) (**_CCF-A_**, **_Core-A_***)
