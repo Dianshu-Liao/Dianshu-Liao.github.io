@@ -72,7 +72,7 @@ _Meixue Si, Shidong Pan, **Dianshu Liao**, Xiaoyu Sun, Zhen Tao, Wenchang Shi, Z
 
 
 # 💼 Academic Services
-- PC Member, ICSE 2025 Artifact Evaluation Tracks,  ICSE 2026 Artifact Evaluation Tracks
+- PC Member: ICSE 2025 Artifact Evaluation Tracks,  ICSE 2026 Artifact Evaluation Tracks
 - Journal Reviewer: ACM Transactions on Software Engineering and Methodology (TOSEM), Automated Software Engineering (ASE)
   
 # 📚 Teaching
