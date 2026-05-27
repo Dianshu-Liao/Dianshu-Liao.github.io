@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Third Year Ph.D. candidate in Computer Science at the Australian National University (ANU), under the supervision of [Xiaoyu Sun](https://sunxiaobiu.github.io/), [Zhenchang Xing](https://comp.anu.edu.au/people/zhenchang-xing/), and [Alwen Tiu](https://comp.anu.edu.au/people/alwen-tiu/). Before that, I obtained my bachelor degree from Jiangxi Normal University. My research focuses on Intelligent Software Engineering and Knowledge Graphs.
-I am open to collaboration and welcomes inquiries from individuals with overlapping research interests. Please feel free to reach out if you believe our research interests align.
+I am a third-year Ph.D. candidate in Computer Science at the Australian National University (ANU), supervised by [Xiaoyu Sun](https://sunxiaobiu.github.io/), [Zhenchang Xing](https://comp.anu.edu.au/people/zhenchang-xing/), and [Alwen Tiu](https://comp.anu.edu.au/people/alwen-tiu/). Prior to joining ANU, I received my bachelor's degree from Jiangxi Normal University. My research interests include AI Agents, Intelligent Software Engineering, and Knowledge Graphs. I have published papers in top conferences and journals such as ICSE/ASE/ICML/TSE/TOSEM/TKDE.
+I am open to collaborations and discussions with researchers and practitioners who share similar interests. Feel free to reach out if you are interested in collaboration opportunities.
 
 # 🔥 News
 - [2026-05-01] 🎉🎉 One paper was accepted to ICML 2026!
