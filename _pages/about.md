@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Computer Science at the Australian National University (ANU), under the supervision of [Xiaoyu Sun](https://sunxiaobiu.github.io/), [Zhenchang Xing](https://comp.anu.edu.au/people/zhenchang-xing/), and [Alwen Tiu](https://comp.anu.edu.au/people/alwen-tiu/). Before that, I obtained my bachelor degree from Jiangxi Normal University. My research focuses on Intelligent Software Engineering and Knowledge Graphs.
-
+I am a Third Year Ph.D. candidate in Computer Science at the Australian National University (ANU), under the supervision of [Xiaoyu Sun](https://sunxiaobiu.github.io/), [Zhenchang Xing](https://comp.anu.edu.au/people/zhenchang-xing/), and [Alwen Tiu](https://comp.anu.edu.au/people/alwen-tiu/). Before that, I obtained my bachelor degree from Jiangxi Normal University. My research focuses on Intelligent Software Engineering and Knowledge Graphs.
 I am open to collaboration and welcomes inquiries from individuals with overlapping research interests. Please feel free to reach out if you believe our research interests align.
 
 # 🔥 News
@@ -73,10 +72,11 @@ _Meixue Si, Shidong Pan, **Dianshu Liao**, Xiaoyu Sun, Zhen Tao, Wenchang Shi, Z
 
 
 # 💼 Academic Services
-- Program Committee Member, ICSE 2025 Artifact Evaluation Track
-- Reviewer, Automated Software Engineering Journal
+- PC Member, ICSE 2025 Artifact Evaluation Tracks,  ICSE 2026 Artifact Evaluation Tracks
+- Journal Reviewer: ACM Transactions on Software Engineering and Methodology (TOSEM), Automated Software Engineering (ASE)
   
 # 📚 Teaching
 ## Tutor
+- Australian National University, 2026S1, COMP4130, Managing Software Quality and Process, by Xiaoyu Sun
 - Australian National University, 2025S1, COMP4130, Managing Software Quality and Process, by Xiaoyu Sun
 
