@@ -32,7 +32,6 @@ I am open to collaborations and discussions with researchers and practitioners w
 
   
 # 📝 Publications (* denotes co-first author)
-## Published Papers
 
 - VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection<br>
 _Xiaobin Hu, Enpu zuo, Lanping Hu, Kaiwen Yang, **Dianshu Liao**, Tianyi Zhang, Bo Yin, Yinsi Zhou, Shidong Pan, Xiaoyu Sun._ [ICML-2026](https://arxiv.org/pdf/2605.10229) (**_CCF-A_**, **_Core-A_***)
