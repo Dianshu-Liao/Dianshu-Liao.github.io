@@ -58,11 +58,6 @@ _Yanqi Su, **Dianshu Liao**, Zhenchang Xing, Qing Huang, Mulong Xie, Qinghua Lu,
 - Semantic-Enriched Code Knowledge Graph to Reveal Unknowns in Smart Contract Code Reuse<br>
   _Qing Huang*, **Dianshu Liao***, Zhenchang Xing, Zhengkang Zuo, Changjing Wang, Xin Xia._ [TOSEM-2023](https://dl.acm.org/doi/10.1145/3597206) (**_CCF-A_**, **_Core-A_***)
 
-## Pre-prints
-- A Solution toward Transparent and Practical AI Regulation: Privacy Nutrition Labels for Open-source Generative AI-based Applications<br>
-_Meixue Si, Shidong Pan, **Dianshu Liao**, Xiaoyu Sun, Zhen Tao, Wenchang Shi, Zhenchang Xing._ [Pre-print](https://arxiv.org/abs/2407.15407)
-
-
 
 
 
